@@ -1,0 +1,142 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7;
+  color: #333;
+}
+
+#aboutme{
+  text-align: justify;
+  color:orange;
+}
+header {
+  text-align: center;
+  background-color: #4285f4; 
+  padding: 20px 0;
+  color: white;
+}
+
+nav, .one {
+  background-color:#ff7043; 
+  padding: 20px;
+  margin-bottom: 20px;
+}
+nav, .two {
+  background-color:sandybrown; 
+  padding: 20px;
+  margin-bottom: 20px;
+}
+nav, .three {
+  background-color:#ec407a; 
+  padding: 20px;
+  margin-bottom: 20px;
+}
+nav, .four {
+  background-color:violet; 
+  padding: 20px;
+  margin-bottom: 20px;
+}
+nav, .five {
+  background-color:aqua; 
+  padding: 20px;
+  margin-bottom: 20px;
+}
+nav, .six {
+  background-color: cornflowerblue; 
+  padding: 20px;
+  margin-bottom: 20px;
+  
+}
+nav, .seven {
+  background-color:blanchedalmond; 
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.table1 {
+  background-color: pink; 
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.para2{
+  background-color: #ec407a;
+}
+.para3 {
+  background-color: #ef5350; 
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.para4 {
+  background-color: #ec407a; 
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #1e88e5; 
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+header img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+#images img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 250px;
+}
+  #images {
+  display: flex;
+  justify-content: space-between;
+}
+#images a {
+  margin-right: 10px;
+}
+#images img {
+  height: 100px; 
+  width: auto; 
+  object-fit: contain; 
+}
+
+.table1 table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table1 th, .table1 td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.table1 th {
+  background-color:pink; 
+  color: black;
+}
+.table1 td{
+  color: darkblue;
+}
+
+
+
+.section h2 {
+  color: #fff;
+}
+
+.section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.section ul li {
+  margin-bottom: 5px;
+}
