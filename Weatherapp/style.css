@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background:linear-gradient(to right,#36d1dc,#5b86e5);
+}
+.header {
+    background-color: #1e3a8a;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.header-title {
+    font-size: 36px;
+}
+
+.main {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.intro {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.intro-text {
+    font-size: 18px;
+    color: #333;
+}
+
+.weather-input {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#location-input {
+    width: 60%;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+}
+
+#btn {
+    padding: 10px 20px;
+    border: none;
+    background-color: #1e3a8a;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.weather-display {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.temperature {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.unit {
+    font-size: 24px;
+}
+
+.footer {
+    background-color: #1e3a8a;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-text {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.contact-details h4 {
+    margin-bottom: 10px;
+}
+
+.contact-details p {
+    margin-bottom: 5px;
+}
